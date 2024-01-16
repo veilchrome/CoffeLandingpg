@@ -7,8 +7,21 @@
   
 }
 
+.font-montecarlo {
+  font-family: 'MonteCarlo', cursive !important;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 48px;
+}
+
 body {
   background-color: #232830;
 
 }
 
+.text-color1 {
+  color: rgb(247, 189, 113) !important;
+}
+.text-color2 {
+  color: rgb(126, 125, 124) !important;
+}
