@@ -4,5 +4,11 @@
 
 .font-archivo {
   font-family: 'Archivo', sans-serif !important;
+  
+}
+
+body {
+  background-color: #232830;
+
 }
 
